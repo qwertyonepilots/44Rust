@@ -1,4 +1,4 @@
 # 44Rust
 ###### A color scheme for Sublime Text.
-![Alt text](https://i.imgsafe.org/bf9879c04c.png "Optional title")
-![Alt text](44Rust2.png?raw=true)
+![Alt text](http://image.prntscr.com/image/ca8bf8c5ab234088b3a29754e2bbb7a6.png)
+
